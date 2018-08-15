@@ -7,7 +7,9 @@ The MQL script writes files to the files/FXtrade folder and this Python script r
 ### Requirements
 ---
 [oandapyV20](https://github.com/hootnot/oanda-api-v20)
+
 requests
+
 six
 
 ### Configuration
@@ -22,6 +24,7 @@ I do not use pending orders but rather allow my experts to monitor when to open 
 + Add on to existing trade
 + Fully or partially close trade
 
+---
 
 ```
 //================================================//
